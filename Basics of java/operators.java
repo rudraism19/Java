@@ -63,5 +63,12 @@ void main(){
     int n = -m;
     System.out.println(n);
     
+    int total = 100;
+    int prefix = ++total;
+    int postfix = total++;
+
+    System.out.println(prefix);
+    System.out.println(postfix);
+    System.out.println(total);    
 
 }
