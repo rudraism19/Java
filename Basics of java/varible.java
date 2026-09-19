@@ -10,4 +10,11 @@ void main(){
     //  camelCaseNaming
      int rudraBhullar = 78;
      System.out.println(rudraBhullar);
+     int totalage = 20;
+     System.out.println(totalage);
+     int _HEIGHT = 10 ;
+     System.out.println(_HEIGHT);
+     String name = "myNameIsAbhinav";
+     System.out.println(name);
+
 }

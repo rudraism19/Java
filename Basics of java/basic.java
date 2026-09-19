@@ -1,5 +1,6 @@
 void main(){
     /*this basic program of java */
+    System.out.println("a" + "b");
     System.out.println("Abhinav" + " rudra");
     System.out.println("Hii");
     System.out.println(5);
