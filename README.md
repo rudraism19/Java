@@ -1,29 +1,83 @@
-# ☕ Java DSA
+# ☕ Java & DSA
 
-A structured repository for learning **Data Structures and Algorithms using Java**, covering everything from Java fundamentals to advanced DSA concepts, problem-solving, and interview preparation.
+<p align="center">
+  <img src="https://img.shields.io/badge/Language-Java-orange?style=for-the-badge&logo=openjdk" />
+  <img src="https://img.shields.io/badge/DSA-Learning-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Problems-0%2B-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-Learning-yellow?style=for-the-badge" />
+</p>
 
-> **Goal:** Build strong problem-solving skills, master DSA in Java, and prepare for coding interviews.
-
----
-
-## 📌 About This Repository
-
-This repository contains my **Java + DSA learning journey**, including:
-
-- Java fundamentals required for DSA
-- Data Structures
-- Algorithms
-- Problem-solving patterns
-- LeetCode & coding-platform problems
-- Practice questions
-- Interview problems
-- Notes and implementations
-- Time & Space Complexity analysis
-
-The repository will be continuously updated as I progress.
+<p align="center">
+  <b>A structured journey to master Java, Data Structures, Algorithms, and Problem Solving.</b>
+</p>
 
 ---
 
+## 📌 About
+
+This repository contains my complete **Java + Data Structures & Algorithms** learning journey.
+
+The goal is to build a strong foundation in Java, understand DSA concepts deeply, develop algorithmic thinking, and solve a large number of problems for:
+
+- 💻 Software Development
+- 🧠 Problem Solving
+- 🎯 Technical Interviews
+- 🏆 Competitive Programming
+- 🚀 Future Backend Development
+
+> **Learn → Implement → Practice → Optimize → Repeat**
+
+---
+
+# 🗺️ Learning Roadmap
+
+```text
+Java Fundamentals
+       │
+       ▼
+Object Oriented Programming
+       │
+       ▼
+Java Collections Framework
+       │
+       ▼
+Time & Space Complexity
+       │
+       ▼
+Basic Data Structures
+       │
+       ▼
+Searching & Sorting
+       │
+       ▼
+Recursion & Backtracking
+       │
+       ▼
+Linked List
+       │
+       ▼
+Stack & Queue
+       │
+       ▼
+Hashing
+       │
+       ▼
+Trees & BST
+       │
+       ▼
+Heap & Priority Queue
+       │
+       ▼
+Graphs
+       │
+       ▼
+Greedy Algorithms
+       │
+       ▼
+Dynamic Programming
+       │
+       ▼
+Advanced Problem Solving
 ## 🗂️ Repository Structure
 
 ```text
