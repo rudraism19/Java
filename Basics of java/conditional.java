@@ -2,31 +2,31 @@ import java.util.Scanner;
 
 void main(){
     Scanner sc = new Scanner(System.in);
-//     System.out.println("how many questions are you practicing??");
-//     int dailypractice = sc.nextInt();
-//     if(dailypractice >= 10){
-//         System.out.println("good consistency");
-//     }
-//     else{
-//         System.out.println("dhaang se pad lawde");
-//     }
-// ;
+    System.out.println("how many questions are you practicing??");
+    int dailypractice = sc.nextInt();
+    if(dailypractice >= 10){
+        System.out.println("good consistency");
+    }
+    else{
+        System.out.println("dhaang se pad lawde");
+    }
+;
 
-//     // if-else Ladder
-//     System.out.println("enter your marks ");
-//     int marks = sc.nextInt();
-//     if(marks >= 90){
-//         System.out.println("excellent");
-//     }
-//     else if(marks >= 80){
-//         System.out.println("good");
-//     }
-//     else if(marks >= 50){
-//         System.out.println("average");
-//     }
-//     else{
-//         System.out.println("need improvement");
-//     }
+    // if-else Ladder
+    System.out.println("enter your marks ");
+    int marks = sc.nextInt();
+    if(marks >= 90){
+        System.out.println("excellent");
+    }
+    else if(marks >= 80){
+        System.out.println("good");
+    }
+    else if(marks >= 50){
+        System.out.println("average");
+    }
+    else{
+        System.out.println("need improvement");
+    }
 
     // Nested if-else 
         System.out.println("enter your age ");
