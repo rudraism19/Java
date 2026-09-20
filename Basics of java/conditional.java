@@ -29,25 +29,59 @@ void main(){
     }
 
     // Nested if-else 
-        System.out.println("enter your age ");
-        int age = sc.nextInt();
-        System.out.println("Male or Female");
-        String gender = sc.nextLine();
-        
-
-        if(age >=18){
-            System.out.println("you are an adult");
-            if(gender == "male" ){
-                System.out.println("you are an male adult");
-            }
-            else{
-                System.out.println("you are a female adult");
-            }
+    System.out.println("Enter your age");
+    int age = sc.nextInt();
+    if (age >= 18){
+        System.out.println("M or F");
+        String gender = sc.next();
+        if(gender == "F"){
+            System.out.println("you are a adult female");
         }
-        else {
-            System.out.println("jaa kr bund mara");
+        else if(gender == "M"){
+            System.out.println("you are an adult Male");
         }
+    }
+    else {
+        System.out.println("Bund mara jaa kr");
+    }
 
+    // ternary operators
+    System.out.println("Enter no of question attempt ");
+    int questions = sc.nextInt();
+    String status = (questions >= 25) ? "Good" : "Dalle";
+    System.out.println(status);
+    
+    // Switch Statement
+    System.out.println("enter the value for day");
+    int day = sc.nextInt();
+
+    switch (day) {
+        case 1:
+            System.out.println("Monday");
+            break;
+        case 2:
+            System.out.println("Tuesday");
+            break;
+        case 3:
+            System.out.println("Wednesday");
+            break;
+        case 4:
+            System.out.println("Thrusday");
+            break;
+        case 5:
+            System.out.println("Friday");
+            break;
+        case 6:
+            System.out.println("Saturday");
+            break;
+        case 7:
+            System.out.println("Sunday");
+            break;
+        default:
+            break;
+    }
+
+    
+    
     sc.close();    
-
 }
