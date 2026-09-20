@@ -51,16 +51,16 @@ void main(){
 
     // Assignment Operators
     int a = 100;
-    // a +=5;//100+5
-    // System.out.println(a);
-    // a -=20; //105 - 20
-    // System.out.println(a);
-    // a *=5; //85*5
-    // System.out.println(a);
-    // a /=5; //425/5
-    // System.out.println(a);
-    // a %=5;//85%5
-    // System.out.println(a);
+    a +=5;//100+5
+    System.out.println(a);
+    a -=20; //105 - 20
+    System.out.println(a);
+    a *=5; //85*5
+    System.out.println(a);
+    a /=5; //425/5
+    System.out.println(a);
+    a %=5;//85%5
+    System.out.println(a);
     a += 100    ;
     System.out.println(a);
     a -= 10;
