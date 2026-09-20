@@ -42,19 +42,34 @@ void main(){
     System.out.println(completeDSA || completeCore);
     System.out.println(!completeDSA);
     System.out.println(!completeCore);
+    System.out.println(completeDSA && completeCore);
+    System.out.println(completeDSA || completeCore);
+    System.out.println(!completeDSA );
+    System.out.println(!completeCore);
+    
 
 
     // Assignment Operators
     int a = 100;
-    a +=5;//100+5
+    // a +=5;//100+5
+    // System.out.println(a);
+    // a -=20; //105 - 20
+    // System.out.println(a);
+    // a *=5; //85*5
+    // System.out.println(a);
+    // a /=5; //425/5
+    // System.out.println(a);
+    // a %=5;//85%5
+    // System.out.println(a);
+    a += 100    ;
     System.out.println(a);
-    a -=20; //105 - 20
+    a -= 10;
     System.out.println(a);
-    a *=5; //85*5
+    a *= 10;
     System.out.println(a);
-    a /=5; //425/5
+    a %= 19;
     System.out.println(a);
-    a %=5;//85%5
+    a /= 188;
     System.out.println(a);
 
 
