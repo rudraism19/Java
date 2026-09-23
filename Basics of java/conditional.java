@@ -8,7 +8,7 @@ void main(){
         System.out.println("good consistency");
     }
     else{
-        System.out.println("dhaang se pad lawde");
+        System.out.println("dhaang se pad");
     }
 ;
 
@@ -42,7 +42,7 @@ void main(){
         }
     }
     else {
-        System.out.println("Bund mara jaa kr");
+        System.out.println("yaha kuch nhi");
     }
 
     // ternary operators
