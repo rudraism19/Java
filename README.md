@@ -23,7 +23,7 @@ The goal is to build a strong foundation in Java, understand DSA concepts deeply
 - 🧠 Problem Solving
 - 🎯 Technical Interviews
 - 🏆 Competitive Programming
-- 🚀 Future Backend Development
+
 
 > **Learn → Implement → Practice → Optimize → Repeat**
 
