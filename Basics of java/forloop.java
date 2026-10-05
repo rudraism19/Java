@@ -30,4 +30,19 @@ void main(){
             System.out.println("a = " + a + ", b = " + b);
         }
     }
+
+    for(int r =1; r<=10; r++){
+        if(r == 5){
+            break;
+        }
+        System.out.println(r);
+    }
+
+    for(int t = 1; t<=10; t++){
+        if(t == 10){
+            continue;
+        }
+        System.out.println(t);
+    }
+
 }
