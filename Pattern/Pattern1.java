@@ -1,3 +1,4 @@
+// Pattern Name: Solid Square Star Pattern
 
 void main(){
 
@@ -9,7 +10,7 @@ void main(){
             // print star
             System.out.print("* ");
         }
-        // move to next line or row \
+        // move to next line or row \\
         System.out.println();
     }
     
