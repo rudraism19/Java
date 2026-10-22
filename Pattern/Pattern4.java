@@ -1,3 +1,5 @@
+// Pattern Name: Hollow Square Star Pattern
+
 void main(){
 
     int n = 6;
