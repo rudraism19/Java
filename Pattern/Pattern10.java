@@ -1,3 +1,5 @@
+// Pattern Name: Hollow Centered Pyramid Star Pattern (with a Filled Base)
+
 void main(){
 
     int n=5;
