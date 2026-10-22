@@ -1,11 +1,11 @@
 // Pattern Name: Solid Rectangle Star Pattern
 
 void main() {
+    int rows = 3;
+    int cols = 5;
 
-    int n = 3;
-
-    for (int row = 1; row <= n; row++) {
-        for (int col = 1; col <= n + 2; col++) {
+    for (int row = 1; row <= rows; row++) {
+        for (int col = 1; col <= cols; col++) {
             System.out.print("* ");
         }
         System.out.println();
