@@ -1,3 +1,5 @@
+// Pattern Name: Right-Aligned Solid Rectangle Star Pattern
+
 void main(){
 
     int n=5;
