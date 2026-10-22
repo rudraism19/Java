@@ -1,3 +1,5 @@
+// Pattern Name: Right-Angled Increasing Star Triangle
+
 void main(){
     
     int n=5;
