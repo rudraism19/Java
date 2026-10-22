@@ -1,3 +1,5 @@
+// Pattern Name: Hollow Right-Angled Star Triangle (with a Filled Base)
+
 void main(){
 
     int n =5;
