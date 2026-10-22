@@ -1,3 +1,5 @@
+// Pattern Name: Centered Solid Pyramid Star Pattern
+
 void main() {
 
     int n = 4;
