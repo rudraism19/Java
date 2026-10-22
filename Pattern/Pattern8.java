@@ -1,3 +1,5 @@
+// Pattern Name: Inverted Centered Pyramid Star Pattern
+
 void main(){
 
     int n =4;
