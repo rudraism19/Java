@@ -1,3 +1,5 @@
+// Pattern Name: Inverted Right-Angled Star Triangle
+
 void main(){
 
     int n= 5;
